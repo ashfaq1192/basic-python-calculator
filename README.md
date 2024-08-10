@@ -1,2 +1,10 @@
-# basic-python-calculator
-The file attached is the basic calculator app build using python in docker container. Pull the image and run the container. Instructions are given in the Readme.md file.
+# My Calculator App
+
+This is a simple calculator app built using Python and Docker.
+
+## Docker Hub Image
+
+You can pull the pre-built Docker image from Docker Hub using the following command:
+
+```bash
+docker pull ashfaq1192/my_calculator:latest
